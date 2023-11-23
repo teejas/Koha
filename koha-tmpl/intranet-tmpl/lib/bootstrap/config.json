@@ -13,7 +13,7 @@
     "@brand-danger": "#d9534f",
     "@body-bg": "#fff",
     "@text-color": "@gray-dark",
-    "@link-color": "#006100",
+    "@link-color": "#096ec1",
     "@link-hover-color": "@link-color",
     "@link-hover-decoration": "underline",
     "@font-family-sans-serif": "Arial, Verdana, Helvetica, sans-serif",

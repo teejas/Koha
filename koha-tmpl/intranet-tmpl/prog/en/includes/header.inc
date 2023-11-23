@@ -11,7 +11,7 @@
         <a href="#" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#header" aria-expanded="false" aria-controls="header">
             <i class="fa fa-bars"></i> Menu
         </a>
-        <a id="logo" class="navbar-brand" href="/cgi-bin/koha/mainpage.pl"><img src="[% interface | html %]/[% theme | html %]/img/picto-koha.svg" alt="Koha"></a>
+        <a id="logo" class="navbar-brand" href="/cgi-bin/koha/mainpage.pl"><img src="[% interface | html %]/[% theme | html %]/img/rocket-svgrepo-com.svg" alt="Koha"></a>
     </div>
 
     <div id="header" class="navbar-collapse collapse">

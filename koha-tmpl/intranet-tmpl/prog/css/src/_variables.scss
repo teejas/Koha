@@ -3,7 +3,7 @@ $warning-text-color: #CC0000;
 $background-color-primary: #1c78c3;
 $background-color-secondary: lighten(saturate(adjust-hue($background-color-primary, -24), 9), 9);
 $background-color-modal: lighten( saturate( $background-color-secondary, 5 ), 40 );
-$btn-primary: #FFC32B;
+$btn-primary: #e160e1;
 $btn-primary-hover: lighten( $btn-primary, 10 );
 
 // Copied from Bootstrap 5 without system-ui because of
